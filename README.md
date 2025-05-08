@@ -47,7 +47,7 @@ pip install requests beautifulsoup4 pandas schedule
 
 2. **Lập lịch**:
 
-   - Thư viện `schedule` được sử dụng để chạy hàm `crawl_vnexpress` hàng ngày vào lúc 06:00 sáng.
+   - Thư viện `schedule` được sử dụng để chạy hàm `business_vnexpress` hàng ngày vào lúc 06:00 sáng.
    - Script chạy vô thời hạn, kiểm tra các tác vụ đã lập lịch mỗi giây.
 
 3. **Xử lý lỗi**:
